@@ -1,5 +1,5 @@
 # Adaptive Landing
-Pure CSS and HTML adaptive flex landing.
+Pure CSS and HTML adaptive flex landing with BEM-methodology.
 
 https://encl1ess.github.io/adaptive_landing/
 
